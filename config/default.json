@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://danielonges:NFSU%28%2A98qwerty@contactkeeper-rwsn3.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://danielonges:NFSU%28%2A98qwerty@contactkeeper-rwsn3.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
 }
